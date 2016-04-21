@@ -1,0 +1,85 @@
+*{
+border: 0;
+margin: 0;
+padding: 0;
+}
+
+body{
+background-image: url("../img/ISN.jpg");
+}
+
+nav{
+font-size: 20px;
+font-family: lobster;
+color:black;
+}
+
+h1{
+font-family: lobster;
+color: black;
+}
+
+.box{
+background: #e6f3ff;
+padding: 20px;
+border-style: solid;
+border: 5px lightblue solid;
+}
+
+p{
+color: black;
+text-align: justify;
+font-size: 20px;
+font-family: lobster;
+}
+
+img{
+background-color: lightgray;
+padding: 15px;
+}
+
+.lightblue-background{
+background-color:lightblue;
+}
+
+.image-height{
+width: 300px;
+height: 300px;
+float: right;
+border-radius: 10px;   
+}
+
+label{
+font-size: 19px;
+font-family: lobster;
+}
+
+.text-left{
+text-align: left;
+padding: 1px;
+}
+
+.middle-text{
+width: auto;
+height: auto;
+margin: auto;
+border-style: solid;
+}
+
+hr{
+height: 8px;
+border-color: black;
+}
+
+.line-color{
+border-color: aliceblue;
+}
+
+h2{
+font-family: lobster;
+color: black;
+}
+
+.right-map{
+float: right;
+}
